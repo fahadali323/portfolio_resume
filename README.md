@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Fahad Ali! 👋
 
 Welcome to my personal portfolio GitHub page. Here, you'll find a showcase of my projects, skills, and interests. I am a passionate developer with a focus on [your areas of expertise, e.g., full-stack development, game design, etc.], eager to build innovative solutions and collaborate on exciting projects.
 
